@@ -71,7 +71,7 @@ export function Main() {
                         <li className="list-group-item"><span className="fw-bold">City: </span>Guntur</li>
                     </ul>
                     <ul className="col-12 col-xxl-6 list-group mt-5 pe-4">
-                        <li className="list-group-item"><span className="fw-bold">Git Profile: </span><a className="link" href="https://github.com/Abhinai-Sai">Click Here</a></li>
+                        <li className="list-group-item"><span className="fw-bold">Git Profile: </span><a className="link" href="https://github.com/Nikhitha7600">Click Here</a></li>
                         <li className="list-group-item"><span className="fw-bold">Age: </span>19</li>
                         <li className="list-group-item"><span className="fw-bold">Education: </span>B.Tech till 2025</li>
                     </ul>
