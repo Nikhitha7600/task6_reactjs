@@ -24,7 +24,7 @@ export function Main() {
                                         <div class="row text-light">
                                             <div class="col-6 text-center">
                                                 <div class="about-info mt-5">
-                                                    <p><span className="fs-2">"Yaswanth Sai Abhinai"</span></p>
+                                                    <p><span className="fs-2">"Nikhitha Kothamasu"</span></p>
                                                     <p><span className="fs-4">Full stack developer</span></p>
                                                     <p><span>Git Linkkk</span></p>
                                                     <a className="btn btn-success" href="#contact">Contact Me!</a>
@@ -47,8 +47,8 @@ export function Main() {
                                                         </h5>
                                                     </div>
                                                     <p>
-                                                        Hi, this is Yaswanth Sai Abhinai.
-                                                        I am a student at VIT AP University currently pursuing my Bacherlors in Technology on Computer Science specializing in Artificial Intelligence and Machine Learning.I'm a socially active tech enthusiast with a passion for programming, gaming, and anime. You'll often find me immersed in lines of code, exploring virtual worlds, or enjoying the latest anime series. I thrive on the balance between the digital realm and real-world connections, always eager to discuss the latest tech trends, game strategies, or anime plot twists. 
+                                                        Hi, this is Nikhitha Kothamasu.
+                                                        I am a student at VIT AP University currently pursuing my Bacherlors in Technology on Computer Science specializing in Artificial Intelligence and Machine Learning.I'm a programming enthusiast with a professional background in classical dance, holding a diploma in the art form. I'm equally passionate about cinema and TV, and you'll often find me engrossed in movies and web series. When I'm not coding or indulging in entertainment, I cherish my downtime, with a profound love for restful sleep.
                                                     </p>
                                                 </div>
                                             </div>
@@ -66,8 +66,8 @@ export function Main() {
                 <div className="row">
                     <ul className="col-12 col-xxl-6 list-group mt-5 ps-4">
 
-                        <li className="list-group-item"><span className="fw-bold">Full Name: </span>Yaswanth Sai Abhinai Kurivella</li>
-                        <li className="list-group-item"><span className="fw-bold">Birthday: </span>13/03/2004</li>
+                        <li className="list-group-item"><span className="fw-bold">Full Name: </span>Nikhitha Kothamasu</li>
+                        <li className="list-group-item"><span className="fw-bold">Birthday: </span>14/02/2004</li>
                         <li className="list-group-item"><span className="fw-bold">City: </span>Guntur</li>
                     </ul>
                     <ul className="col-12 col-xxl-6 list-group mt-5 pe-4">
